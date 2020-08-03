@@ -1,6 +1,6 @@
 I'm currently learning Machine Learning, Deep Learning :)
 
-[![bluecandle's github stats](https://github-readme-stats.vercel.app/api?username=bluecandle)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluecandle)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bluecandle/bluecandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
