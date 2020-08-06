@@ -5,6 +5,8 @@ I'm Jinyeong Kim. A software engineer from South Korea.
 - 🌱 I'm currently learning Machine Learning, Deep Learning, and planning to work further on related projects.
 - 😄 I also enjoy working on web development projects mainly using ReactJS, NodeJS.
 - 📫 How to reach me : jinyeongkim37@gmail.com
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluecandle&layout=compact)
 
 ![bluecandle's github stats](https://github-readme-stats.vercel.app/api?username=bluecandle&count_private=true&show_icons=true&theme=radical)
