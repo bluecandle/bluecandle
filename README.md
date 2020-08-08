@@ -8,7 +8,7 @@ I'm Jinyeong Kim. A software engineer from South Korea.
 
 <!--
 ![bluecandle's github stats](https://github-readme-stats..vercel.app/api?username=bluecandle&count_private=true&show_icons=true&theme=radical)
--->>
+-->
 
 <!--
 **bluecandle/bluecandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
