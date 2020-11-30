@@ -2,8 +2,9 @@
 
 I'm Jinyeong Kim. A software engineer from South Korea.
 
-- 🌱 I'm currently learning Machine Learning, Deep Learning, and planning to work further on related projects.
-- 😄 I also enjoy working on web development projects mainly using ReactJS, NodeJS.
+- 🌱 I'm a software engineer with experience in web development and Machine Learning.
+- 🔭 Currently working hard to utilize expertise and understanding of all aspects of software development and Machine Learning at [mAy-I](https://may-i.io/)
+- 😄 I also enjoy working on web development projects mainly utilizing ReactJS, NodeJS.
 - 📫 How to reach me : jinyeongkim37@gmail.com
 
 <!--
