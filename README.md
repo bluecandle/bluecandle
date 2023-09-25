@@ -3,7 +3,7 @@
 I'm Jinyeong Kim. A software engineer from South Korea.
 
 - 🌱 I'm a software engineer with experience in Web Development and Machine Learning (especially deeplearning with computer vision).
-- 🔭 Currently working hard to utilize expertise and understanding of all aspects of software development at [Dawinproperty(다윈중개)](https://dawin.xyz/)
+- 🔭 Currently working hard to utilize expertise and understanding of all aspects of software development at [TOPIA Edutech](https://topialive.co.kr/)
 - 📫 How to reach me : jinyeongkim37@gmail.com
 
 <!--
